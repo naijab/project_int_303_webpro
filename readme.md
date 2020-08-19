@@ -1,6 +1,9 @@
 # MoomMim Shopping Online Store
 
-INT303 Web Programming Project
+INT303 Web Programming Project. 
+
+Information Technology.
+King Mongkut's University of Technology Thonburi.
 
 ## Tool
 - Java Servlet --> controller
